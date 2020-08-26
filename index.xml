@@ -12,14 +12,22 @@
     
     
     <item>
-      <title>Hello, I Am Back!</title>
+      <title>About me</title>
+      <link>https://www.z3r0d4y.com/about/</link>
+      <pubDate>Wed, 26 Aug 2020 13:04:01 +0200</pubDate>
+      
+      <guid>https://www.z3r0d4y.com/about/</guid>
+      <description>An experienced IT Security Engineer with a demonstrated history of working in SecDevOps, security architecting, and team lead. Skilled in cybersecurity, information security, cloud computing, programming, reverse engineering, infrastructure security, automation &amp;amp; security by design. I&amp;rsquo;ve been a public speaker multiple times at Blackhat, DefCon, OWASP, Kaspersky (Industrial Security Conf), and Mentor in Google Summer of Code, OWASP Code Sprint and publish research in ACM and ACSAC, and won United States National Science Foundation Award.</description>
+    </item>
+    
+    <item>
+      <title>Hello, I am back!</title>
       <link>https://www.z3r0d4y.com/post/hello-i-am-back/</link>
       <pubDate>Mon, 24 Aug 2020 22:27:37 +0200</pubDate>
       
       <guid>https://www.z3r0d4y.com/post/hello-i-am-back/</guid>
       <description>WTH,
-After a couple of years, I decided to start updating the blog, I will write about different kinds of stuff, this post literally is just to test the theme has no other purpose, I might delete it after I&amp;rsquo;m done, or just leave it here, don&amp;rsquo;t know, don&amp;rsquo;t care. just wait for it!
-Frid ut!!</description>
+After a couple of years, I decided to start updating the blog, I will write about different kinds of stuff, this post literally is just to test the theme has no other purpose, I might delete it after I&amp;rsquo;m done, or just leave it here, don&amp;rsquo;t know, don&amp;rsquo;t care. Anyway, I used Hugo and Hugo.386 with a little bit of modification to create my website, and I replaced the font with AcPlus_IBM_EGA_9x14 (reference: int10h.</description>
     </item>
     
   </channel>
