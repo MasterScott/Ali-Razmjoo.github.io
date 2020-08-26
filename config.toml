@@ -4,18 +4,22 @@ title = "RAZMJOO'S PERSONAL WEBSITE - CYBER SECUIRTY ENGINEER"
 theme = "hugo.386"
 preserveTaxonomyNames = true
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
     # The name to display as main title in the home page
     mainpagetitle = "Blog(ish)"
 
-    # The subtitle to display under the title in the home page
-    mainpagesubtitle = "CYBER SECURITY ENGINEER + CARPE DIEM = HACKER"
+    # # The subtitle to display under the title in the home page
+    # mainpagesubtitle = "CYBER SECURITY ENGINEER + CARPE DIEM = <blink><a>HACKER</a></blink>"
+    # injectted to /themes/hugo.386/layouts/index.html,404.html directly instead
 
     # The description of your website. It will be displayed in the home page
     mainpagedesc = "Roses are red, violets are blue, this blog is useless and I don't have a clue! My world is just ones and zeros, and its population is full of hacker heroes!"
 
     # The name to display in the copyright section in the footer
-    copyrightname = "RAZ"
+    copyrightname = "Raz"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     copyrighturl = "https://www.z3r0d4y.com"
@@ -40,7 +44,7 @@ preserveTaxonomyNames = true
     loadonepass = true
 
 [params.copyright]
-    name = "RAZ"
+    name = "Raz"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     url = "https://www.z3r0d4y.com"
@@ -53,17 +57,24 @@ preserveTaxonomyNames = true
 
 [menu]
   # This displays buttons in the navbar to access your contents
-  # [[menu.main]]
-  #   identifier = "about" # An unique identifier for the button
-  #   name = "About"       # A display name for the button
-  #   url = "/about/"      # The path to the content. It can lead to a single page (like here)
-  #   weight = 10          # A number to order the buttons in the navbar
-
   [[menu.main]]
     identifier = "posts"
     name = "All posts"
     url = "/post/"       # The path can lead to a content folder too.
-    weight = 20
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about" # An unique identifier for the button
+    name = "About"       # A display name for the button
+    url = "/about/"      # The path to the content. It can lead to a single page (like here)
+    weight = 2          # A number to order the buttons in the navbar
+
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "mailto:r@z3r0d4y.com"
+    weight = 3
 
 [taxonomies]
 category = "categories"
