@@ -3,7 +3,7 @@ title: "About me"
 date: 2020-08-26T13:04:01+02:00
 draft: false
 author: Raz
-description: $ whoami
+description: $ concisely=true whoami > /dev/self/summary && grep -rn "cyber security" /dev/self/summary
 ---
 
 

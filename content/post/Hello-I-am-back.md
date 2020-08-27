@@ -5,7 +5,7 @@ draft: false
 author: Raz
 tags: pitch
 categories: rigmarole
-description: Just a summary of starting my new blog.
+description: Just a summary of starting my new blog, How, and what, but still not sure why!
 ---
 WTH,
 

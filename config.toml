@@ -43,6 +43,10 @@ unsafe= true
     # Enables or disables the second flyby cursor. Default is false.
     loadonepass = true
 
+    # Meta description
+    # description in markdown file will be used as meta description in each page/post
+    description = "RAZMJOO'S PERSONAL WEBSITE - CYBER SECUIRTY ENGINEER" # used in themes/hugo.386/layouts/partials/head.html
+
 [params.copyright]
     name = "Raz"
 
