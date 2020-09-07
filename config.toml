@@ -1,6 +1,6 @@
 baseURL = "https://www.z3r0d4y.com/"
 languageCode = "en-us"
-title = "RAZMJOO'S PERSONAL WEBSITE - CYBER SECUIRTY ENGINEER"
+title = "ALI RAZMJOO'S PERSONAL WEBSITE - CYBERSECUIRTY ENGINEER"
 theme = "hugo.386"
 preserveTaxonomyNames = true
 
@@ -12,11 +12,11 @@ unsafe= true
     mainpagetitle = "Blog(ish)"
 
     # # The subtitle to display under the title in the home page
-    # mainpagesubtitle = "CYBER SECURITY ENGINEER + CARPE DIEM = <blink><a>HACKER</a></blink>"
+    # mainpagesubtitle = "CYBERSECURITY ENGINEER + CARPE DIEM = <blink><a>HACKER</a></blink>"
     # injectted to /themes/hugo.386/layouts/index.html,404.html directly instead
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "Roses are red, violets are blue, this blog is useless and I don't have a clue! My world is just ones and zeros, and its population is full of hacker heroes!"
+    mainpagedesc = "There is a very tight line in cybersecurity that makes you a very good engineer, or a villain charlatan, the purpose of the contents in this blog is only for knowledge and experience sharing, and positive educations."
 
     # The name to display in the copyright section in the footer
     copyrightname = "Raz"
@@ -45,7 +45,7 @@ unsafe= true
 
     # Meta description
     # description in markdown file will be used as meta description in each page/post
-    description = "RAZMJOO'S PERSONAL WEBSITE - CYBER SECUIRTY ENGINEER" # used in themes/hugo.386/layouts/partials/head.html
+    description = "ALI RAZMJOO'S PERSONAL WEBSITE - CYBERSECUIRTY ENGINEER" # used in themes/hugo.386/layouts/partials/head.html
 
 [params.copyright]
     name = "Raz"
@@ -77,7 +77,8 @@ unsafe= true
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
-    url = "mailto:r@z3r0d4y.com"
+    # base64 encoded the mail to avoid spammers
+    url = "javascript:window.open(\"mailto:\" + atob(\"ckB6M3IwZDR5LmNvbQ==\"))"
     weight = 3
 
 [taxonomies]
