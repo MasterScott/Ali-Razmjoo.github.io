@@ -227,6 +227,7 @@ textarea {
   font-weight: normal;
   src: url('fonts/AcPlus_IBM_EGA_9x14.ttf');
   src: local('☺'), url('fonts/AcPlus_IBM_EGA_9x14.ttf') format('truetype');
+  font-display: swap;
 }
 
 body {
