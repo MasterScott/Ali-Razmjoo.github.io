@@ -16,7 +16,7 @@ unsafe= true
     # injectted to /themes/hugo.386/layouts/index.html,404.html directly instead
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "Hackers are creators of new trajectories to solve problems out of the box, or creating a whole new box without the problem, either way, problem will be solved."
+    mainpagedesc = "Hackers are creators of new trajectories to solve problems out of the box, or creating a whole new box without the problem, either way, the problem will be solved."
 
     # The name to display in the copyright section in the footer
     copyrightname = "Raz"
