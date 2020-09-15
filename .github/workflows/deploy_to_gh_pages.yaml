@@ -10,11 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: 'Building...'
-      uses: reuixiy/hugo-deploy@v1
-      env:
-        DEPLOY_REPO: Ali-Razmjoo/Ali-Razmjoo.github.io
-        DEPLOY_BRANCH: build
-        DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
-        # test deploy
-        TZ: Europe/Stockholm
+    - name: 'Building ...'
+      run: |
+      ls
+      docker run --rm -it -v $(pwd):/src klakegg/hugo --help
