@@ -12,5 +12,5 @@ jobs:
     steps:
     - name: 'Building ...'
       run: |
-      ls
-      docker run --rm -it -v $(pwd):/src klakegg/hugo --help
+        ls
+        docker run --rm -it -v $(pwd):/src klakegg/hugo --help
