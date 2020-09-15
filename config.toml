@@ -8,6 +8,9 @@ preserveTaxonomyNames = true
 unsafe= true
 
 [params]
+    # Author
+    author = "Raz"
+
     # The name to display as main title in the home page
     mainpagetitle = "Blog(ish)"
 
