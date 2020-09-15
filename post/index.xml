@@ -6,10 +6,19 @@
     <description>Recent content in Posts on ALI RAZMJOO&#39;S PERSONAL WEBSITE - CYBERSECUIRTY ENGINEER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2020 22:27:37 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 17:38:23 +0200</lastBuildDate>
     
 	<atom:link href="https://www.z3r0d4y.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OWASP (Python) Honeypot</title>
+      <link>https://www.z3r0d4y.com/post/owasp-honeypot/</link>
+      <pubDate>Tue, 15 Sep 2020 17:38:23 +0200</pubDate>
+      
+      <guid>https://www.z3r0d4y.com/post/owasp-honeypot/</guid>
+      <description>Last night I got an email from a blackhat&amp;rsquo;s staff who reminded me it&amp;rsquo;s the last day to submit my presentation for Blackhat Arsenal Asia 2020, I recorded a very short video to demonstrate how OWASP Python Honeypot works, the timing tight and short but kind of perfect because we just finished the Google summer of code 2020 period and two of my students Dhiren Devinder Serai and Chakshu Gupta had done many great contributions.</description>
+    </item>
     
     <item>
       <title>Hello, I am back!</title>

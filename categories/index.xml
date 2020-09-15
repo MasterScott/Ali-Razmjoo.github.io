@@ -6,10 +6,19 @@
     <description>Recent content in Categories on ALI RAZMJOO&#39;S PERSONAL WEBSITE - CYBERSECUIRTY ENGINEER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2020 22:27:37 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 17:38:23 +0200</lastBuildDate>
     
 	<atom:link href="https://www.z3r0d4y.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tools</title>
+      <link>https://www.z3r0d4y.com/categories/tools/</link>
+      <pubDate>Tue, 15 Sep 2020 17:38:23 +0200</pubDate>
+      
+      <guid>https://www.z3r0d4y.com/categories/tools/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>rigmarole</title>
