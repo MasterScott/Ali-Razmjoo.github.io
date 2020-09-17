@@ -12,7 +12,7 @@ In friendly words, I use to be a teenager hacker who use to live in a small town
 
 In fancy words, I am an experienced IT Security Engineer with a demonstrated history of working in SecDevOps, security architecting, and team lead. Skilled in cybersecurity, information security, cloud computing, programming, reverse engineering, infrastructure security, automation & security by design. I've been a public speaker multiple times at Blackhat, DefCon, OWASP, Kaspersky (Industrial Security Conf), and Mentor in Google Summer of Code, OWASP Code Sprint and publish research in ACM and ACSAC, and won United States National Science Foundation Awards.
 
-In honest words, I am something between the friendly and fancy words I've described above! all of them is true, but my personality is in a sweet spot between them, I can't point exactly where, but I'm sure you can figure it out. To help you find the spot, I can point you to my friends; [Ehsan](https://www.nezami.me/), [Reza](https://reza.es/), and others [offsec](https://offsec.ir/) friends.
+In honest words, I am something between the friendly and fancy words I've described above! all of them is true, but my personality is in a sweet spot between them, I can't point exactly where, but I'm sure you can figure it out. To help you find the spot, I can point you to my friends; [Ehsan](https://www.nezami.me/), and others [offsec](https://offsec.ir/) friends.
 
 
 _______
